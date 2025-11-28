@@ -1,6 +1,6 @@
 # Overview
 
-**Real-Time Procedural Level Generation in a Platform Game: An Emotion-Driven Approach — Research Prototype**
+**Real-Time Procedural Level Generation in a Platform Game: An Emotion-Driven Approach — Research Prototype on Unity**
 
 This is a research prototype designed to assess the impact of ‘emotion-driven procedural level generation’ on player experience. It currently includes two modes:
 
