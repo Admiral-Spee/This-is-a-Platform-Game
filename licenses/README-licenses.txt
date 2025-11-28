@@ -9,6 +9,4 @@ Mappings (with versions):
 - Plugin: OpenCV for Unity v3.0.0 — Unity Asset Store EULA — Unity-Asset-Store-EULA-OpenCV-for-Unity.txt
   * Underlying OpenCV: Apache-2.0 (v4.5.0+) or BSD 3-Clause (≤4.4.0) — see OpenCV-Apache-2.0.txt and OpenCV-BSD-3-Clause.txt
 - Frameworks: ONNX Runtime v1.22.20250627.2.89746dc — MIT — MIT-ONNX-Runtime.txt
-- (If ONNX core spec is used) ONNX — Apache-2.0 — Apache-2.0-ONNX.txt
-
-If you add more third-party assets, add a new file here and update this README accordingly.
+- ONNX — Apache-2.0 — Apache-2.0-ONNX.txt
