@@ -63,20 +63,15 @@ On-device inference, no saved or upload. Microphone off by default. No third-par
 
 Thanks for participating and sharing your feedback! This prototype is for academic evaluation at goldsmiths, University of London.
 
-# License / 许可协议
+# License
 
-## Main Project / 本项目主体
+## Main Project
 The source code of this project is licensed under the **MIT License**.
-本项目的主体源代码遵循 MIT 许可协议。
 
 The game assets (original art/audio) are licensed under **CC-BY 4.0** (or your choice).
-本项目包含的原创美术/音频资源遵循 CC-BY 4.0 协议（建议）。
 
----
-
-## Third-Party Notices / 第三方声明
+## Third-Party Notices
 This project makes use of the following third-party assets and libraries. Full license texts can be found in the `licenses/` directory.
-本项目使用了以下第三方资源库，完整的许可文本请见 `licenses/` 目录。
 
 ###  Art & Assets
 | Asset Name | Author | License | File |
