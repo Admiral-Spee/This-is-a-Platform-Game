@@ -1,0 +1,9 @@
+Unity Asset Store Terms of Service and EULA (reference)
+
+Product: OpenCV for Unity (EnoxSoftware)
+- Governed by Unity Asset Store Terms of Service & EULA
+- Do NOT redistribute the plugin package or source
+- Use only within your project per the EULA
+
+Full terms: https://unity.com/legal/as-terms
+Note: Underlying OpenCV license may be Apache-2.0 (v4.5.0+) or BSD 3-Clause (≤4.4.0).

@@ -1,0 +1,11 @@
+Project: ONNX
+License: Apache License 2.0
+Source: https://github.com/onnx/onnx
+
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+[Full license text available at the URL above. Include this file with your distribution.]
+

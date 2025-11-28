@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65007e449ac68bc4383da53a7f102cb2, type: 3}
+  m_Name: DifficultyConfig
+  m_EditorClassIdentifier: 
+  levels:
+  - difficultyLevel: 1
+    pitChance: 0.1
+    platformChance: 0.4
+    spikeChance: 0.05
+    spikeStayTime: 1.5
+    slimeChance: 0.02
+    slimeSpeed: 0.5
+    turretNums: 0
+    turretDetectRange: 0
+    turretAimTime: 0
+  - difficultyLevel: 2
+    pitChance: 0.1
+    platformChance: 0.3
+    spikeChance: 0.05
+    spikeStayTime: 1.2
+    slimeChance: 0.03
+    slimeSpeed: 0.5
+    turretNums: 0
+    turretDetectRange: 0
+    turretAimTime: 0
+  - difficultyLevel: 3
+    pitChance: 0.2
+    platformChance: 0.3
+    spikeChance: 0.05
+    spikeStayTime: 1.2
+    slimeChance: 0.03
+    slimeSpeed: 0.8
+    turretNums: 1
+    turretDetectRange: 5
+    turretAimTime: 4
+  - difficultyLevel: 4
+    pitChance: 0.2
+    platformChance: 0.3
+    spikeChance: 0.15
+    spikeStayTime: 1.2
+    slimeChance: 0.03
+    slimeSpeed: 0.8
+    turretNums: 1
+    turretDetectRange: 8
+    turretAimTime: 3
+  - difficultyLevel: 5
+    pitChance: 0.2
+    platformChance: 0.2
+    spikeChance: 0.15
+    spikeStayTime: 0.8
+    slimeChance: 0.04
+    slimeSpeed: 0.8
+    turretNums: 1
+    turretDetectRange: 8
+    turretAimTime: 3
+  - difficultyLevel: 6
+    pitChance: 0.4
+    platformChance: 0.2
+    spikeChance: 0.15
+    spikeStayTime: 0.8
+    slimeChance: 0.04
+    slimeSpeed: 1.2
+    turretNums: 2
+    turretDetectRange: 8
+    turretAimTime: 3
+  - difficultyLevel: 7
+    pitChance: 0.4
+    platformChance: 0.2
+    spikeChance: 0.25
+    spikeStayTime: 0.8
+    slimeChance: 0.04
+    slimeSpeed: 1.2
+    turretNums: 2
+    turretDetectRange: 12
+    turretAimTime: 2
+  - difficultyLevel: 8
+    pitChance: 0.4
+    platformChance: 0.1
+    spikeChance: 0.25
+    spikeStayTime: 0.5
+    slimeChance: 0.05
+    slimeSpeed: 1.2
+    turretNums: 2
+    turretDetectRange: 12
+    turretAimTime: 2
+  - difficultyLevel: 9
+    pitChance: 0.6
+    platformChance: 0.1
+    spikeChance: 0.25
+    spikeStayTime: 0.5
+    slimeChance: 0.05
+    slimeSpeed: 1.5
+    turretNums: 3
+    turretDetectRange: 12
+    turretAimTime: 2
+  - difficultyLevel: 10
+    pitChance: 0.6
+    platformChance: 0.1
+    spikeChance: 0.3
+    spikeStayTime: 0.5
+    slimeChance: 0.05
+    slimeSpeed: 1.5
+    turretNums: 3
+    turretDetectRange: 15
+    turretAimTime: 1
